@@ -3,7 +3,7 @@
 ** Aplicação da Tarefa do arquivo Csv de Custo ** 
 
 * A empresa esta montando uma planilha de Custo de produtos, e deseja saber qual dos produtos teve mais prejuizos, 
-    quais foram os mais vendidos, duração de tempo de vendas dos projutos e tempo de preparação de vendas. 
+    quais foram os mais vendidos, duração de tempo de vendas dos produtos e tempo de preparação de vendas. 
 
 * Em paralelo a isso, a empresa gostaria de ter diferentes visões das vendas de custos realizadas nos anos de 2017.
 
